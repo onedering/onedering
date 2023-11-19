@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Cyber Security realted topics.
 - 📫 Me On [TryHackMe](https://tryhackme.com/p/kloneryga).
 
-!(https://tryhackme-badges.s3.amazonaws.com/kloneryga.png)
+![TryHackMe](https://tryhackme.com/badge/2448250)
